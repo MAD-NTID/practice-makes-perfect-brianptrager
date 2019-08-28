@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\PracticeMakesPerfect\bin\Debug\netcoreapp2.2\PracticeMakesPerfect.deps.json
+C:\Users\brian\Documents\PracticeMakesPerfect\bin\Debug\netcoreapp2.2\PracticeMakesPerfect.runtimeconfig.json
+C:\Users\brian\Documents\PracticeMakesPerfect\bin\Debug\netcoreapp2.2\PracticeMakesPerfect.runtimeconfig.dev.json
+C:\Users\brian\Documents\PracticeMakesPerfect\bin\Debug\netcoreapp2.2\PracticeMakesPerfect.dll
+C:\Users\brian\Documents\PracticeMakesPerfect\bin\Debug\netcoreapp2.2\PracticeMakesPerfect.pdb
+C:\Users\brian\Documents\PracticeMakesPerfect\obj\Debug\netcoreapp2.2\PracticeMakesPerfect.csprojAssemblyReference.cache
+C:\Users\brian\Documents\PracticeMakesPerfect\obj\Debug\netcoreapp2.2\PracticeMakesPerfect.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\PracticeMakesPerfect\obj\Debug\netcoreapp2.2\PracticeMakesPerfect.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\PracticeMakesPerfect\obj\Debug\netcoreapp2.2\PracticeMakesPerfect.AssemblyInfo.cs
+C:\Users\brian\Documents\PracticeMakesPerfect\obj\Debug\netcoreapp2.2\PracticeMakesPerfect.dll
+C:\Users\brian\Documents\PracticeMakesPerfect\obj\Debug\netcoreapp2.2\PracticeMakesPerfect.pdb
